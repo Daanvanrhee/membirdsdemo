@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyBE567OsIHSrLMMslKr4cF0_1nSMhCNWGs',
-    appId: '1:40380185207:android:b7943cbe3c83a2a866a472',
+    appId: '1:40380185207:android:f294adc7bc70537066a472',
     messagingSenderId: '40380185207',
     projectId: 'membirdsdemo',
     storageBucket: 'membirdsdemo.appspot.com',
@@ -59,11 +59,11 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyCfYGvF_7YKOLMbNbFSJDGXWSAl1afu4KI',
-    appId: '1:40380185207:ios:50904cebecb4f14066a472',
+    appId: '1:40380185207:ios:646a8a5f01f4ca6666a472',
     messagingSenderId: '40380185207',
     projectId: 'membirdsdemo',
     storageBucket: 'membirdsdemo.appspot.com',
-    iosClientId: '40380185207-2oo6tci526jgadd25hfrha1bis2ief0b.apps.googleusercontent.com',
-    iosBundleId: 'com.example.membirdsdemo',
+    iosClientId: '40380185207-u865j9chnk1j2b1ej5g42c0mhfaj1t31.apps.googleusercontent.com',
+    iosBundleId: 'com.theappside.membirdsdemo',
   );
 }

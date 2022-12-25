@@ -29,6 +29,49 @@
             {
               "client_id": "40380185207-ieqf07u09e9knf2n8f1qjdsgs8vqercl.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "40380185207-2oo6tci526jgadd25hfrha1bis2ief0b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.membirdsdemo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40380185207:android:f294adc7bc70537066a472",
+        "android_client_info": {
+          "package_name": "com.theappside.membirdsdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40380185207-ieqf07u09e9knf2n8f1qjdsgs8vqercl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE567OsIHSrLMMslKr4cF0_1nSMhCNWGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40380185207-ieqf07u09e9knf2n8f1qjdsgs8vqercl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "40380185207-2oo6tci526jgadd25hfrha1bis2ief0b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.membirdsdemo"
+              }
             }
           ]
         }

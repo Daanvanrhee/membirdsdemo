@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "40380185207",
+    "project_id": "membirdsdemo",
+    "storage_bucket": "membirdsdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40380185207:android:b7943cbe3c83a2a866a472",
+        "android_client_info": {
+          "package_name": "com.example.membirdsdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40380185207-ieqf07u09e9knf2n8f1qjdsgs8vqercl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE567OsIHSrLMMslKr4cF0_1nSMhCNWGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40380185207-ieqf07u09e9knf2n8f1qjdsgs8vqercl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>40380185207-2oo6tci526jgadd25hfrha1bis2ief0b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.40380185207-2oo6tci526jgadd25hfrha1bis2ief0b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCfYGvF_7YKOLMbNbFSJDGXWSAl1afu4KI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>40380185207</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.membirdsdemo</string>
+	<key>PROJECT_ID</key>
+	<string>membirdsdemo</string>
+	<key>STORAGE_BUCKET</key>
+	<string>membirdsdemo.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:40380185207:ios:50904cebecb4f14066a472</string>
+</dict>
+</plist>

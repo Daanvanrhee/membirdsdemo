@@ -158,7 +158,7 @@ class _HomePageState extends State<HomePage> {
                   navigationDelegate: (NavigationRequest request) async {
                     if (request.url != "https://membirds.com/nl") {
                       await FirebaseAnalytics.instance.logEvent(
-                        name: 'artikelgoepend',
+                        name: 'homepage geopend',
                         parameters: <String, dynamic>{
                           'string': "newurl",
                         },
@@ -195,7 +195,7 @@ class _HomePageState extends State<HomePage> {
                       _launchURL(pubbleurl);
                       return NavigationDecision.prevent;
                     }
-                    if (!request.url.contains("membirds")) {
+                    if (!request.url.contains("membirds") ||!request.url.contains("vimeo") ||!request.url.contains("soundcloud") ||!request.url.contains("youtube")) {
                       String otherurl = request.url;
                       _launchURL(otherurl);
                       return NavigationDecision.prevent;

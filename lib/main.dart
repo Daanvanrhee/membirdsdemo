@@ -195,12 +195,12 @@ class _HomePageState extends State<HomePage> {
                       _launchURL(pubbleurl);
                       return NavigationDecision.prevent;
                     }
-                    if (!request.url.contains("membirds") ||!request.url.contains("vimeo") ||!request.url.contains("soundcloud") ||!request.url.contains("youtube")) {
+                    if (request.url.contains("membirds") ||request.url.contains("vimeo") ||request.url.contains("soundcloud") ||request.url.contains("youtube")) {
                       String otherurl = request.url;
                       _launchURL(otherurl);
-                      return NavigationDecision.prevent;
+                      return NavigationDecision.navigate;
                     }
-                    return NavigationDecision.navigate;
+                    return NavigationDecision.prevent;
                   },
                 ),
               ),
